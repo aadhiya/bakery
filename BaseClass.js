@@ -22,3 +22,6 @@ display() {
     pop()
 }
 }
+/* 
+var orderHere=createSprite(200,60000,10,1)
+*/
